@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ANTD-SPA ##
 
 React+Antd后台管理系统
@@ -39,3 +40,6 @@ npm run start
 
 4. 打包
 npm run build
+=======
+# eos_chat_web_manager
+>>>>>>> 638a9abbba9370ac4a8aaedaf20da546189b19b3
